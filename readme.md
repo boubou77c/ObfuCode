@@ -178,6 +178,10 @@ if __name__ == "__main__":
 
 ![App Screenshot](main.png)
 
+Exemple UI :
+
+![App Screenshot](ex.png)
+
 ##
 
 This project has been making by boubou. If you want to give me any idea to enhance my project or improve my skill :
