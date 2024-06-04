@@ -180,7 +180,7 @@ if __name__ == "__main__":
 
 Exemple UI :
 
-![App Screenshot](ex.png)
+![App Screenshot](exPY.png)
 
 ##
 
