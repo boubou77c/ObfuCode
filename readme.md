@@ -137,7 +137,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()```
+    main()
+```
 
 After : Settings used -> Cls,var and func rename, removes spaces,removes comments :
 
