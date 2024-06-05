@@ -3,8 +3,16 @@
 This is an Obfuscator made with Java / Javafx.
 Your code becomes less readable. For Java or Python
 
+## Information
 
-## Demo 
+My project is not finished. Sometimes, you need to edit the obfuscate code to make it works.
+There are also litle problem such as :
+
+-Print content may change if there is a renamed variable name.
+
+-There may be more problems but i have not found them yet.
+
+## Demo
 
 #### JAVA :
 Before : 
